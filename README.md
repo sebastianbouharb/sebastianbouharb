@@ -1,6 +1,6 @@
 ## Hey, I'm Sebastian 👋
 
-I'm a Software Engineering student at McGill University building toward a career in **Cloud Engineering** and **Solutions Architecture**.
+I'm a Computer Science student at McGill University building toward a career in **Cloud Engineering** and **Solutions Architecture**.
 
 ## 🚀 What I'm Working On
 - ☁️ Learning AWS - working towards AWS Cloud Practitioner certification
