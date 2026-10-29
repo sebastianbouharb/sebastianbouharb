@@ -8,7 +8,7 @@ I'm a Computer Science student at Riverside City College, transferring to univer
 - 🐧 **Diagnosing and recovering Linux servers** over SSH
 
 ## 🛠️ Tech Stack
-- **Cloud:** AWS (EC2, S3, IAM, CloudFront), boto3
+- **Cloud:** AWS (EC2, S3, IAM, CloudFront)
 - **Languages:** C++, Go, Java, C, Python, ARM assembly
 - **Tools:** Git, Bash, Linux, VSCode, Xcode, IntelliJ
 
